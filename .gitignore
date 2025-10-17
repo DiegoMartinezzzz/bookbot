@@ -1,0 +1,7 @@
+# ignoring 'books' directory
+
+/books/
+
+# ignoring '__pycache__' directory (the directory containing the compiled version of the python code of root directory)
+
+__pycache__/
